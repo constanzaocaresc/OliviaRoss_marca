@@ -1,0 +1,70 @@
+@media (min-width: 950px) {
+    #img-logo{
+        padding: 0 0 0 5em;
+    }
+    #navbarSupportedContent{
+        padding: 0 5em 0 0;
+    }
+    #header-img{
+        padding: 10em;
+        height: 630px;
+
+    }
+    #titulo-header{
+        font-weight: 800;
+        font-size: 5em;
+    }
+    #parrafo-header{
+        font-size: 1.5em;
+    }
+    .btn.btn-outline-info{
+        height: 45px;
+        width: 90px;
+        margin: 0 1em 0 0;
+    }
+    .btn.btn-info{
+        height: 45px;
+        width: 90px;
+    }
+    #contenido-header{
+        margin: 0 0 0 30em;
+    }
+    #p-section{
+        padding: 0 10em 0 10em;
+    }
+    #titulo-main{
+        font-weight: 800;
+        font-size: 3em;
+    }
+    #txt-content{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-evenly;
+    }
+    .servicios{
+        height: 250px;
+        width: 350px;
+    }
+    #card-area{
+        display: flex;
+    }
+    .card{
+        margin: 0 4em 3em 4em;
+        border-radius: 0;
+    }
+    .card-img-top{
+        height: 300px;
+        border-radius: 0 0 4px 4px;
+    }
+    #mis-trabajos{
+        height: 800px;
+    }
+    .form-contacto{
+        padding: 0 20em 0 20em;
+
+    }
+    #comment{
+        width: 780px;
+    }
+   
+}
